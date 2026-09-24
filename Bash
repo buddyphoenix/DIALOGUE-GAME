@@ -1,3 +1,0 @@
-git add .
-git commit -m "Build v0.0.1 Rabbit vs Boss playable prototype"
-git push origin main
